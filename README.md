@@ -17,9 +17,16 @@ Program displays and allows modification of the following process safety informa
 - Process integrity level;
 - Process privileges;
 
+![изображение](https://user-images.githubusercontent.com/39829227/146244269-6e1ae394-2cc7-41ca-8ca4-657c96d21fe0.png)
+Image 1 - View running processes.
+
 Program displays and allows to change the following information about any given file system object:
 - Access control lists (ACL);
 - Objects owner (by SID);
 - Integrity level;
+
+![изображение](https://user-images.githubusercontent.com/39829227/146244652-dbbf4807-3164-45d9-b263-9849e617a6b7.png)
+Image 2 - View files in directory.
+
 
 Database of the running processes can be saved in file in .json format.
