@@ -31,4 +31,4 @@ Program displays and allows to change the following information about any given 
 Image 2 - View files in directory.
 
 
-Database of the running processes can be saved in file in .json format.
+Database of the running processes can be saved in file in .json format.   
