@@ -17,7 +17,8 @@ Program displays and allows modification of the following process safety informa
 - Process integrity level;
 - Process privileges;
 
-![изображение](https://user-images.githubusercontent.com/39829227/146244269-6e1ae394-2cc7-41ca-8ca4-657c96d21fe0.png)
+![изображение](https://user-images.githubusercontent.com/39829227/146245367-94c18b37-9478-430e-8610-7aa2a98fb21a.png)
+
 Image 1 - View running processes.
 
 Program displays and allows to change the following information about any given file system object:
@@ -25,7 +26,8 @@ Program displays and allows to change the following information about any given 
 - Objects owner (by SID);
 - Integrity level;
 
-![изображение](https://user-images.githubusercontent.com/39829227/146244652-dbbf4807-3164-45d9-b263-9849e617a6b7.png)
+![изображение](https://user-images.githubusercontent.com/39829227/146244917-60af6e93-e77f-4901-8e9f-5d05728fce00.png)
+
 Image 2 - View files in directory.
 
 
