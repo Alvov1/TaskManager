@@ -21,3 +21,5 @@ Program displays and allows to change the following information about any given 
 - Access control lists (ACL);
 - Objects owner (by SID);
 - Integrity level;
+
+Database of the running processes can be saved in file in .json format.
